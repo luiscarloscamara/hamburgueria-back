@@ -1,2 +1,15 @@
-.vscode
-/bin
+# .NET e C#
+bin/
+obj/
+*.dll
+*.exe
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Arquivos temporários e logs
+*.log
+*.tmp
